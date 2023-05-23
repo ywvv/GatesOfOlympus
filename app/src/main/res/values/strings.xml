@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Gates Of Olympus</string>
+    <string name="_1000000">1000000</string>
+    <string name="background">Background</string>
+    <string name="_1">1</string>
+    <string name="_100">100</string>
+    <string name="_10">10</string>
+    <string name="new_game">NEW GAME</string>
+    <string name="spin">SPIN</string>
+</resources>

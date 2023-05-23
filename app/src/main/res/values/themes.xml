@@ -1,0 +1,10 @@
+<resources>
+
+    <style name="Base.Theme.CasinoTestApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+
+    <style name="Theme.CasinoTestApp" parent="Base.Theme.CasinoTestApp" />
+</resources>
